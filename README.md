@@ -9,11 +9,11 @@
 
 ### Options
 
-1.Account Searcher with a Username
-2.Phonne Lookup (using an free api key)
-3.GMail Lookup
-4.IP Tracker (locator)
-5.Full dox creator
+1. Account Searcher with a Username
+2. Phonne Lookup (using an free api key)
+3. GMail Lookup
+4. IP Tracker (locator)
+5. Full dox creator
 
 ### Require
 
@@ -22,9 +22,9 @@
 
 ### Installation
 
-1.Create an account to <a href="https://numverify.com/">https://numverify.com/</a>
-2.Copy your api key and paste it in config.json
-3.Launch setup.bat
+1. Create an account to <a href="https://numverify.com/">https://numverify.com/</a>
+2. Copy your api key and paste it in config.json
+3. Launch setup.bat
 
 ### Usage
 
